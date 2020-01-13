@@ -1,0 +1,24 @@
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <foaf:Agent> "Person" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <foaf:name> "Martin Luther" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <foaf:gender> "Male" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <person:placeOfBirth> "Eisleben" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <core:dateOfBirth> "10/11/1483" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <person:placeOfDeath> "Eisleben" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <core:dateOfDeath> "18/02/1546" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <core:occupation> "Theologist" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <core:occupation> "Priest" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <core:occupation> "Friar" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <core:occupation> "Professor" 
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <core:knownFor> "Being a seminal figure in the Protestant Reformation" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <foaf:img> <http://www.chantallengua.github.io/ProRevoLOD/img/imgluther.jpg> .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <dcterms:relation> <http://chantallengua.github.io/ProRevoLOD/ttl/disputatio.ttl> .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <dcterms:relation> "Septembertestament" .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <owl:sameAs> <http://dbpedia.org/page/Martin_Luther> .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <owl:sameAs> <https://www.wikidata.org/wiki/Q9554> .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <foaf:knows> <http://dbpedia.org/page/Pope_Leo_X> .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <foaf:knows> <http://www.chantallengua.github.io/ProRevoLOD/ttl/pope-leo-x.ttl> .
+<http://chantallengua.github.io/ProRevoLOD/xml/martin-luther.xml> <dcterms:relation> <http://chantallengua.github.io/ProRevoLOD/ttl/protestant-reformation.ttl> .
+
+
+
+
